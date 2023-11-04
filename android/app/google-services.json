@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "51696231989",
+    "project_id": "bpi-info",
+    "storage_bucket": "bpi-info.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51696231989:android:e5a84ead7a4b516feb337c",
+        "android_client_info": {
+          "package_name": "com.ajamir.send_notice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51696231989-m2stj9ie9nrgih9votc4j55bchkrsr0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI1dpT44SifC74On-m0MqrTc1JthlXeOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51696231989-m2stj9ie9nrgih9votc4j55bchkrsr0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51696231989:android:5ba1825313e240bbeb337c",
+        "android_client_info": {
+          "package_name": "com.example.teacherslist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51696231989-m2stj9ie9nrgih9votc4j55bchkrsr0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI1dpT44SifC74On-m0MqrTc1JthlXeOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51696231989-m2stj9ie9nrgih9votc4j55bchkrsr0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
